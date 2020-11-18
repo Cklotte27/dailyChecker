@@ -13,7 +13,7 @@
       </ion-header>
       <actionSheet class="createTask .ion-justify-content-center"></actionSheet>
       <!-- <ion-button class="createTask" color="tertiary">Tertiary</ion-button> -->
-      <ExploreContainer name="Tab 1 page" />
+      <ExploreContainer name="Cklotte" />
     </ion-content>
   </ion-page>
 </template>
