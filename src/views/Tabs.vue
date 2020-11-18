@@ -3,7 +3,7 @@
     <ion-tabs>
       <ion-tab-bar slot="bottom">
         <ion-tab-button tab="tab1" href="/tabs/tab1">
-          <ion-icon :icon="triangle" />
+          <ion-icon name="reorder-three-outline"></ion-icon>
           <ion-label>Tab 1</ion-label>
         </ion-tab-button>
           
