@@ -1,0 +1,7 @@
+{
+  "name": "dailyChecker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
